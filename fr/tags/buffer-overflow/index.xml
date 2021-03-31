@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>buffer overflow on kernemporium</title>
+    <link>/fr/tags/buffer-overflow/</link>
+    <description>Recent content in buffer overflow on kernemporium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© linKERN Emporium 2021</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/fr/tags/buffer-overflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction à l&#39;exploitation kernel</title>
+      <link>/fr/kernel/intro/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/kernel/intro/</guid>
+      <description>Qu&amp;rsquo;est ce que l&amp;rsquo;exploitation kernel Syscall vulnérables The techniques used in order to exploit this kind of L&amp;rsquo;exploitation du kernel est l&amp;rsquo;exploitation des failles de sécurité dans le ring 0. Les techniques utilisées pour exploiter ce type de vulnérabilité sont un peu différentes de l&amp;rsquo;exploitation d&amp;rsquo;une application en &amp;ldquo;userland&amp;rdquo;. Et quand vous êtes débutants, c&amp;rsquo;est pas forcément un domaine conseillé de par le fait que cela demande pas mal de prérequis.</description>
+    </item>
+    
+  </channel>
+</rss>
