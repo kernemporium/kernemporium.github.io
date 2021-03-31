@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>obfuscation on kernemporium</title>
+    <link>/tags/obfuscation/</link>
+    <description>Recent content in obfuscation on kernemporium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© linKERN Emporium 2021</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/obfuscation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatic unpacking with Qiling framework</title>
+      <link>/posts/unpacking/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/unpacking/</guid>
+      <description>Welcome folks, today I want to show you a few tricks about automatic unpacking on elf executables with qiling framework !
+EDIT: This Write-Up is working only with a particular (and ancient) version of the qiling framwork. So if you want a full working poc, run the final script in my docker image.
+Introduction to automatic unpacking The automatic unpacking is the art of extracting certain informations from an obfuscated executable, to subsquently make another binary more easily readable.</description>
+    </item>
+    
+  </channel>
+</rss>
