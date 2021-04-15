@@ -1096,7 +1096,7 @@ Gr33tz d00dz
 <p>The code is available on <a href="https://gist.github.com/n4sm/8849382bdeab8bae1ef0557c61aa2fcd">github gist</a>. And you can get the binary <a href="https://kernemporium.github.io/articles/en/auto_unpacking/leetness">here</a>.</p>
 <h2 id="summary">Summary<a href="#summary" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <p>To summarize, I&rsquo;ve talked about a few techniques of packing and we&rsquo;ve seen how to fight against them. The reliability of the PoC that I&rsquo;ve developped depends on your target. But in all the cases, I think that the better technique stays to hook sys_mmap and sys_mprotect to record all the memory areas mapped / protected by the program in PROT_EXEC. Next the question is what to do with that (looking for an elf header in the memory, dump the page each time an executable page is written &hellip;).</p>
-<p>Thanks for reading and I hope that it has been interesting ;) . If you have any questions dm me on <a href="https://tiwtter.com/nasm_re">twitter</a> or ask on my <a href="https://0xthxmxs.github.io/discord">discord server</a>.</p>
+<p>Thanks for reading and I hope that it has been interesting ;). If you have any questions dm me on <a href="https://tiwtter.com/nasm_re">twitter</a> or ask on my <a href="https://0xthxmxs.github.io/discord">discord server</a>.</p>
 <p>~ cheers, nasm</p>
 
       </div></div>
